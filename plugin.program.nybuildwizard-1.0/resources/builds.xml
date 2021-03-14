@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <builds>
+    	
+        <build name = "The Simple Build 18.9">
+            <version>1.0</version>
+            <url>https://archive.org/download/the-simple-build-18.9/The%20simple%20Build%2018.9%20.zip</url>
+            <icon>https://archive.org/download/fanart_20160417/fanart.jpg</icon>
+            <fanart>https://archive.org/download/fanart_20160417/fanart.jpg</fanart>
+            <description>Builds for everyone.</description>
+        </build>
+        
+        <build name = "Simple Build">
+            <version>1.0</version>
+            <url>https://archive.org/download/simple-build/simple%20build.zip</url>
+            <icon>https://archive.org/download/fanart_20160417/fanart.jpg</icon>
+            <fanart>https://archive.org/download/fanart_20160417/fanart.jpg</fanart>
+            <description>Builds for everyone.</description>
+        </build>
+        
+    </builds>
